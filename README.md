@@ -1,5 +1,5 @@
 # sampleJavaApp
-This is a sample java app that prints text to console
+This is a sample java app that prints text to console. This is used for testing purpose.
 
 ## Setup
 1. Compile the source code.
