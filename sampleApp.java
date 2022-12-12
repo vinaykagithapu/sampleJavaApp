@@ -3,5 +3,6 @@ public class sampleApp {
     System.out.println("\n\nSample Java App\n");
     System.out.println("Welcome to Sample Java App\n");
     System.out.println("Thank you\n");
+    System.out.println("Thank you CPU\n");
   }
 }
